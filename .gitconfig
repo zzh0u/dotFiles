@@ -1,0 +1,10 @@
+[user]
+	name = zzh0u
+	email = weirong.zhou@outlook.com
+[color]
+	ui = true
+[core]
+	editor = vim
+	autocrlf = input
+[gui]
+	tabsize = 4
