@@ -101,16 +101,14 @@ set ignorecase
 " 历史记录 1000条
 set history=1000
 
+let g:Lf_ShortcutF = '<c-p>'
+
+
 " PLUGINS ---------------------------------------------------------------- {{{
 
 " Plugin code goes here.
 
 call plug#begin('~/.vim/plugged')
-
-  Plug 'dense-analysis/ale'
-
-  Plug 'preservim/nerdtree'
-
 
 call plug#end()
 
